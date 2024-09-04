@@ -11,7 +11,7 @@
 
 📫 **How to Reach Me:**
 - Email: cedric.bral@gmail.com
-- LinkedIn: [Cédric Bral]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/cedric-bral-6b5b72324/))
+- LinkedIn: https://www.linkedin.com/in/cedric-bral-6b5b72324/
 
 ⚡ **Fun Fact:**
 - I make electronic music under the moniker 'Mono Black'. This is a reference to my other hobby, Magic the Gathering. Mono Black is a playstyle within the game that I grew very fond of.
