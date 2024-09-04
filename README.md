@@ -1,8 +1,8 @@
 ## Hi there, I'm Cedric! 👋
 
 🔭 **What I'm Currently Working On:**
-- [Pizzeria]: A website for a pizzeria made purely in PHP. I'm currently refactoring this since it was an exercise to get to learn PHP better.
-- [SCRUM - Webshop]: I'm currently studying webdevelopment and doing my first SCRUM project.
+- Pizzeria: A website for a pizzeria made purely in PHP. I'm currently refactoring this since it was an exercise to get to learn PHP better.
+- SCRUM - Webshop: I'm currently studying webdevelopment and doing my first SCRUM project.
 
 🌱 **What I'm Learning:**
 - PHP - Laravel
