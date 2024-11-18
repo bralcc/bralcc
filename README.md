@@ -10,7 +10,7 @@
 - Python (basic)
 
 📫 **How to Reach Me:**
-- Email: cedric.bral@gmail.com
+- Email: info@bralcedric.be
 - LinkedIn: https://www.linkedin.com/in/cedric-bral-6b5b72324/
 
 ⚡ **Fun Fact:**
