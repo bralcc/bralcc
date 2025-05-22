@@ -1,13 +1,13 @@
 ## Hi there, I'm Cedric! 👋
 
 🔭 **What I'm Currently Working On:**
-- Pizzeria: A website for a pizzeria made purely in PHP. I'm currently refactoring this since it was an exercise to get to learn PHP better.
-- SCRUM - Webshop: I'm currently studying webdevelopment and doing my first SCRUM project.
+I have enlisted into the Belgian Military and was in need of extra exercises for the cognitive test. The test is really basic but measures your performance in speed and accuracy. Hence the documentation doesn't have any extra exercises, I'm creating a website in React that fixes this problem.
 
-🌱 **What I'm Learning:**
+🛠️  **What I use for development:**
 - PHP - Laravel
 - Javascript - React
-- Python (basic)
+- CSS - Tailwind
+- Vite
 
 📫 **How to Reach Me:**
 - Email: info@bralcedric.be
